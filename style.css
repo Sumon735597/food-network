@@ -4,7 +4,7 @@ body{
 }
 .flexible{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .text-container{
     width:40%;
@@ -47,4 +47,39 @@ span{
 }
 .recipes-text{
     text-align: center;
+}
+.recipie-container{
+    width: 25%;
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 25px;
+    
+}
+.recipie-container img{
+    width: 100%;
+}
+#recipie-section{
+    margin-left: 100px;
+    
+}
+.channel{
+    box-shadow: 5px 7px 40px gray;
+    padding: 25px;
+   
+    margin-left: 100px;
+    margin-right: 140px;
+    border-radius: 20px;
+}
+.channel div{
+    width: 30;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+}
+.footer-container{
+    color: white;
 }
