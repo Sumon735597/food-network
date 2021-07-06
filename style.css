@@ -8,9 +8,9 @@ body{
 }
 .text-container{
     width:40%;
-    float: left;
+    
     margin-left: 4%;
-    padding-left: 2%;
+    padding-left: 0%;
     
 }
 h1{
@@ -27,6 +27,24 @@ h1{
 span{
     color: darkorange;
 }
-.text-container img{
+
+.image-container{
     width: 80%;
+}
+.image-container2{
+    width: 60%;
+    
+}
+.about-container{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+   
+    background-size: 100%;
+}
+
+.none{
+    background-color: darkorchid;
+}
+.recipes-text{
+    text-align: center;
 }
