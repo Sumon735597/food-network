@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    font-family: 'Uchen', serif;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.text-container{
+    width:40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    
+}
+h1{
+    font-size: 50px;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(168, 50, 3), rgb(18, 7, 173));
+    padding: 10px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+}
+span{
+    color: darkorange;
+}
+.text-container img{
+    width: 80%;
+}
