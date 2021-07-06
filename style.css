@@ -2,9 +2,12 @@ body{
     margin: 0px;
     font-family: 'Uchen', serif;
 }
+
+
 .flexible{
     display: flex;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
+    
 }
 .text-container{
     width:40%;
@@ -42,9 +45,8 @@ span{
     background-size: 100%;
 }
 
-.none{
-    background-color: darkorchid;
-}
+
+
 .recipes-text{
     text-align: center;
 }
@@ -71,15 +73,19 @@ span{
     margin-left: 100px;
     margin-right: 140px;
     border-radius: 20px;
+    
 }
 .channel div{
     width: 30;
 }
 footer{
-    background-color: black;
+     background-color: black;
     text-align: center;
     padding: 40px;
 }
 .footer-container{
     color: white;
+}
+.footer-img{
+    width: 20%;
 }
